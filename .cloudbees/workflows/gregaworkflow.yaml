@@ -13,7 +13,6 @@ on:
           - Option1
           - Option2
         default: ""
-        required: true
 jobs:
   build:
     steps:
